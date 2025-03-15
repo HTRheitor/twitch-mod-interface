@@ -1,4 +1,4 @@
-# Twitch-Moderation-Redesign
+# Twitch-Redesign
 
 A reimagined Twitch platform interface focusing on moderation tools and community safety features. This project showcases a comprehensive redesign concept for Twitch's moderation ecosystem, created purely with HTML and CSS.
 
